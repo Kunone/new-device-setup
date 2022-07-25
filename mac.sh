@@ -28,3 +28,11 @@ brew install nvm
 # visual code
 # https://code.visualstudio.com/download
 
+# install docker
+
+# instsall aws cli
+
+# install azure cli
+brew update && brew install azure-cli
+
+# install helm
